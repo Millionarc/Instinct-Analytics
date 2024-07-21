@@ -1,0 +1,17 @@
+{
+  "name": "your-app-name",
+  "version": "1.0.0",
+  "main": "src/cli.js",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "axois": "^0.0.1-security",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.21",
+    "bytenode": "^1.5.6",
+    "csv-parse": "^4.16.3",
+    "dotenv": "^16.4.5",
+    "fast-csv": "^4.3.6",
+    "figlet": "^1.5.2",
+    "openai": "^4.52.7"
+  }
+}
