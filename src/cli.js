@@ -28,7 +28,7 @@ const convertCsvToTxt = (csvFilePath, txtFilePath) => {
 };
 
 const csvFilePath = __dirname + '/../input.csv';
-const txtFilePath = 'input.txt';
+const txtFilePath = __dirname + '/../input.txt';
 fs.writeFileSync(txtFilePath, '');
 convertCsvToTxt(csvFilePath, txtFilePath);
 
