@@ -14,6 +14,8 @@ Write Code for ML - Uses GPT-4 to write a Jupyter Notebook python file on traini
 
 For LabLab.ai Llama 3 hackathon. Solo 2 day project that I plan on turning into a startup.
 
+The "Thinking" can take a few minutes as my gpu is mid-range, couldn't use an API due to token amounts
+
 Please message/mention me on discord @millionarc.sol once reviewed/judged as I am running the Llama server locally on my PC.
 
 The installer and main application is Windows only as the installer is a bat file, however feel free to set up your own environment to run the code if on Linux/Mac
