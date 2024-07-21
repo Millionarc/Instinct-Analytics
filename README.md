@@ -1,9 +1,6 @@
 # Instinct-Analytics
 
 
-# GO TO RELEASES FOR DOWNLOAD WHEN USING DEMO
-
-
 For LabLab.ai Llama 3 hackathon. Solo 2 day project that I plan on turning into a startup.
 
 Please message/mention me on discord @millionarc.sol once reviewed/judged as I am running the Llama server locally on my PC.
@@ -15,3 +12,6 @@ I included an example dataset on Anemia I found [here]([url](https://www.kaggle.
 If running/testing the Jupyter Notebook file for Machine Learning, you will need to transfer the .ipynb file or copy the code into a python/Jupyter environment
 
 If you have any other questions feel free to reach out @millionarc.sol on discord, I am on EST timezone (UTC-05)
+
+
+# GO TO RELEASES FOR DOWNLOAD WHEN USING DEMO
