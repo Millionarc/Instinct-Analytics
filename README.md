@@ -1,6 +1,9 @@
 # Instinct-Analytics
 
 
+# GO TO RELEASES FOR DOWNLOAD WHEN USING DEMO
+
+
 For LabLab.ai Llama 3 hackathon. Solo 2 day project that I plan on turning into a startup.
 
 Please message/mention me on discord @millionarc.sol once reviewed/judged as I am running the Llama server locally on my PC.
